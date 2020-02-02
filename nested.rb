@@ -5,7 +5,7 @@ def hopper
   programmer_hash = 
   { 
        	  :grace_hopper => {
-          :known_for => ["COOL"],
+          :known_for => "COOL",
           :languages => ["COBOL", "FORTRAN"]
 	      },
         :alan_kay => {
