@@ -2,8 +2,9 @@ def  nested hash
 end  
 
 def hopper 
-  programmer_hash => { 
-       	  :grace_hopper => "hopper", {
+  programmer_hash => 
+  { 
+       	  :grace_hopper => {
           :known_for => ["COOL"],
           :languages => ["COBOL", "FORTRAN"]
 	      },
@@ -16,6 +17,7 @@ def hopper
           :languages => ["C"]
         }
  	  }
+ 	  
 end
 
 def alan_kay_is_known_for
