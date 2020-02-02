@@ -2,7 +2,7 @@ def  nested hash
 end  
 
 def hopper 
-  programmer_hash => 
+  programmer_hash = 
   { 
        	  :grace_hopper => {
           :known_for => ["COOL"],
